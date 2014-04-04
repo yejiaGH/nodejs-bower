@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-bower",
+  "version": "0.0.0",
+  "authors": [
+    "ye.jia.alice <ye.jia.alice@gmail.com>"
+  ],
+  "keywords": [
+    "example",
+    "of",
+    "nodejs-bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}
